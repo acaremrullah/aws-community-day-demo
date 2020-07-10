@@ -1,0 +1,10 @@
+aes
+pycrypto
+pycparser
+Crypto
+boto3
+cryptography
+botocore
+aws_encryption_sdk
+s3transfer
+pycryptodome
